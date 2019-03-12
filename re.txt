@@ -1,1 +1,1 @@
-test 
+2019/03/12 17:25:55 [error] 43552#40228: *267 CreateFile() "E:/phpStudy/PHPTutorial/WWW/wpad.dat" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /wpad.dat HTTP/1.1", host: "wpad"
