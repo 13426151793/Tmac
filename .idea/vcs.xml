@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/anruence/yii2-editor.md" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/bedezign/yii2-audit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/ckeditor/ckeditor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/jpunanua/yii2-seotools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/nullref/yii2-useful" vcs="Git" />
   </component>
 </project>
