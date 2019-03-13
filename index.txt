@@ -1,9 +1,0 @@
-Previous exception:
-yii\web\UnauthorizedHttpException:  你没有该权限  in E:\WWW\basic\controllers\BaseController.php:27
-Stack trace:
-#0 E:\WWW\basic\vendor\yiisoft\yii2\base\Controller.php(155): app\controllers\BaseController->beforeAction(Object(yii\base\InlineAction))
-#1 E:\WWW\basic\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('about', Array)
-#2 E:\WWW\basic\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/about', Array)
-#3 E:\WWW\basic\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
-#4 E:\WWW\basic\web\index.php(14): yii\base\Application->run()
-#5 {main}

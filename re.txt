@@ -1,9 +1,0 @@
-An Error occurred while handling another error:
-yii\web\UnauthorizedHttpException:  你没有该权限  in E:\WWW\basic\controllers\BaseController.php:27
-Stack trace:
-#0 E:\WWW\basic\vendor\yiisoft\yii2\base\Controller.php(155): app\controllers\BaseController->beforeAction(Object(yii\web\ErrorAction))
-#1 E:\WWW\basic\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('error', Array)
-#2 E:\WWW\basic\vendor\yiisoft\yii2\web\ErrorHandler.php(108): yii\base\Module->runAction('site/error')
-#3 E:\WWW\basic\vendor\yiisoft\yii2\base\ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\UnauthorizedHttpException))
-#4 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\UnauthorizedHttpException))
-#5 {main}
